@@ -7,10 +7,6 @@ Realice un programa que permita identificar un numero entero ingresado de la sig
 
 # SOLUCION DEL PROBLEMA
 
-
-
-# CODIGO DE SOLUCION
-
  #include<iostream>
  #include<stdlib.h>
  #include<stdio.h>

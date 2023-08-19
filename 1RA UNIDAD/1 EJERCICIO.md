@@ -5,12 +5,6 @@ Realice un programa que permita sumar, restar, multiplicar y dividir dos numeros
 
 # SOLUCION DEL PROBLEMA
 
-
-
-
-
-# CODIGO DE SOLUCION
-
  #include<iostream>
  #include<stdlib.h>
  #include<stdio.h>

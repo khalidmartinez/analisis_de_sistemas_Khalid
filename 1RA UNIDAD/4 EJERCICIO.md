@@ -1,10 +1,10 @@
 # DESCRIPCION DEL PROBLEMA
 
-
+ Realiza un programa que permita mostrar en pantalla el resultado de la siguiente ecuacion:
+      (36*a)2
+         z
+         
 # SOLUCION DEL PROBLEMA
-
-
-# CODIGO DE SOLUCION
 
  #include<iiostream>
  #include<srdlib.h>

@@ -8,10 +8,6 @@ Realice un programa tal que dado como dato la cantidad de minutos:
          D      COSTA RICA      Q. 4.75
 
 # SOLUCION DEL PROBLEMA
-
-
-
-# CODIGO DE SOLUCION
  
  #include<iostream>
  #include<stdlib.h>
