@@ -21,8 +21,8 @@
     mult=a*36;
     div=mult/z;
     pot=div*div;
-    cout<<"El resultado es: "<<pot;
+    cout<<"El resultado es: "<<pot<<endl;
 
-    Sistem("Pause");
+    System("Pause");
     
     }
