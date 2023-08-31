@@ -15,6 +15,7 @@ Realice un programa tal que dado como dato la cantidad de minutos:
   using namespace std;
   int main(){
     float tot_pag, min;
+    
     char cod;
 
     cout<<"A------GUATEMALA------Q.3.12"<<endl;
