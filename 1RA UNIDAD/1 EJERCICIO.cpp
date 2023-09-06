@@ -15,7 +15,7 @@ Realice un programa que permita sumar, restar, multiplicar y dividir dos numeros
     
     cout<<"Ingrese el primer numero;
     cin>>num_1;
-    cout<<"Ingrese el segundo numero;
+    cout<<"Ingresee el segundo numero;
     cin>>num_2;
     
     sum=num_1+num_2;
